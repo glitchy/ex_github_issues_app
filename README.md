@@ -8,7 +8,7 @@ https://www.erlang.org/downloads
 <br>
 ## Installation
 (1) Download `ex_github_issues_app` repository by running either of the following commands in your CLI: <br>
-ssh: `git pull git@github.com:glitchy/ex_github_issues_app.git` <br>
+ssh: &nbsp; `git pull git@github.com:glitchy/ex_github_issues_app.git` <br>
 https: `git pull https://github.com/glitchy/ex_github_issues_app.git`
 <br>
 ## Run
